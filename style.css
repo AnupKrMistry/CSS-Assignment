@@ -1,0 +1,59 @@
+body{
+    background-image: url(img/beans.jpg);
+}
+
+section {
+    background-color: #DEB887;
+    margin:2% 29.6% 2% 29.6%;
+    text-align: center;
+    padding: 19px;
+}
+
+span{
+    font-family: Impact, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+div span{
+    font-size: 30px;
+}
+hr{
+    background-color: #A52A2A;
+    height: 4px;
+    border: none;
+    margin-top: 15px;
+    margin-bottom: 24px;
+}
+
+i{
+    display: block;
+    font-family: sans-serif;
+    font-size: 16px;
+    margin-top: 20px;
+}
+div{
+    margin-top: 20px;
+}
+
+table{
+    width: 100%;
+    font-family: sans-serif;
+    font-size: 18px;
+
+}
+
+table, tr{
+    height: 30px;
+}
+
+table, tr , td{
+    text-align: left;
+}
+table, tr , td:nth-child(2){
+    text-align: right;
+}
+
+a{
+    color: #634f35;
+}
